@@ -24,7 +24,7 @@
 🔹 Formula 1 Race Predictor using ML + LP  
 <a href="https://github.com/ymoola/MIE368-F1" target="_blank">[MIE368-F1]</a>
 
-🔹 Data-Driven Supply Chain Optimizer  
+🔹 Ride-Share Application 
 <a href="https://github.com/ymoola/MIE350-Project" target="_blank">[MIE350-Project]</a>
 
 </div>
