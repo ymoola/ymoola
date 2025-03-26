@@ -73,7 +73,8 @@ React, agent-based AI systems, Neo4j graph databases, and sustainable tech!
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="50" alt="Neo4j"/></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Pandas_logo.svg" width="50" alt="Pandas"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+
     </tr>
   </table>
 </div>
