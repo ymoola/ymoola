@@ -18,13 +18,13 @@
 🔹 IntelliEarth - GenAI Genesis Hackathon  
 <a href="https://github.com/ymoola/GenAiHackathon" target="_blank">[GenAiHackathon]</a>
 
-🔹 Vision Transformer Oral Disease Classifier  
+🔹 Oral Disease Classifier - Computer Vision
 <a href="https://github.com/ymoola/APS360_Project" target="_blank">[APS360_Project]</a>
 
 🔹 Formula 1 Race Predictor using ML + LP  
 <a href="https://github.com/ymoola/MIE368-F1" target="_blank">[MIE368-F1]</a>
 
-🔹 Ride-Share Application 
+🔹 Ride-Share Application using Java Springboot
 <a href="https://github.com/ymoola/MIE350-Project" target="_blank">[MIE350-Project]</a>
 
 </div>
