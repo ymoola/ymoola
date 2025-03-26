@@ -1,7 +1,7 @@
 <h1 align="center">Yusuf Moola</h1>
 <div align="center">
     <a href="https://github.com/AhmedJader" style="display: inline-block;">
-        <img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=FFFFFF&background=53348000&center=true&vCenter=true&random=false&width=600&lines=Industrial+Engineering+Student+at+University+of+Toronto" alt="Industrial Engineering @ University of Toronto">
+        <img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=FFFFFF&background=53348000&center=true&vCenter=true&random=false&width=600&lines="Industrial+Engineering+Student+at+University+of+Toronto" alt="Industrial Engineering @ University of Toronto">
     </a>
 </div>
 
