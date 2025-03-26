@@ -1,31 +1,17 @@
-<h1 align="center">Ahmed Abduljader</h1>
+<h1 align="center">Yusuf Moola</h1>
 <div align="center">
     <a href="https://github.com/AhmedJader" style="display: inline-block;">
-        <img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=FFFFFF&background=53348000&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+at+York+University" alt="Computer Science Student at York University">
+        <img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=FFFFFF&background=53348000&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+at+York+University" alt="Industrial Engineering @ University of Toronto">
     </a>
 </div>
 
 
 <p align="center"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
-<div align="center">Latest: GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
+<div align="center">Latest: GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/ymoola/GenAiHackathon" target="blank">
 [IntelliEarth]</a>
 </div>
 
-<div align="center">CTRLHACKDEL Best Security Hack by 1Password Winner<a href="https://github.com/AhmedJader/AnonAlyze" target="blank">
-[AnonAlyze]</a>
-</div>
-
-<div align="center">YuLearn E-learning Platform Concept<a href="https://github.com/AhmedJader/YUlearn" target="blank">
-[YuLearn]</a>
-</div>
-
-<div align="center">DeltaHacks 11 Hackathon Project<a href="https://github.com/AhmedJader/SoundMates" target="blank">
-[SoundMates]</a>
-</div>
-
-<div align="center">UofTHacks 12 Hackathon Project<a href="https://github.com/HassanA01/UofTHacks12" target="blank">
-[Broke2Woke]</a>
 </div>
 
 
