@@ -89,9 +89,11 @@ React, agent-based AI systems, Neo4j graph databases, and sustainable tech!
 
 <div align="center">
   <h3>🐍 Contributions in Motion</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymoola/ymoola/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ymoola/ymoola/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/ymoola/ymoola/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/ymoola/ymoola/blob/output/github-snake-dark.svg)
 </div>
