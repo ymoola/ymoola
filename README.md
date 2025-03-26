@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ymoola" style="display: inline-block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Industrial+Engineering+@+UofT;AI+Enthusiast+%7C+Hackathon+Builder+%7C+Optimization+Nerd" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Industrial+Engineering+@+UofT;AI+Enthusiast+%7C+Optimization+Nerd" alt="Typing SVG">
   </a>
 </div>
 
