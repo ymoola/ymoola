@@ -32,16 +32,15 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-🎓 **Industrial Engineering student** at the University of Toronto blending data science, optimization, and generative AI to solve real-world problems.
+**Industrial Engineering student** at the University of Toronto blending data science, optimization, and generative AI to solve real-world problems.
 
-🧠 Passionate about turning complex systems into smart, scalable tools. Whether it's deep learning with ViTs, crafting agent workflows with LangChain, or visualizing enterprise data pipelines — I’m in my element.
+Passionate about turning complex systems into smart, scalable tools. Whether it's deep learning with ViTs, crafting agent workflows with LangChain, or visualizing enterprise data pipelines — I’m in my element.
 
-🌱 **Currently diving deeper into:**  
-React, agent-based AI systems, Neo4j graph databases, and sustainable tech!
+**Currently diving deeper into:**  
+LLM's for Constraint Programming, agent-based AI systems and cool computer vision applications
 
-🧩 **Fun fact:** I love F1 racing (which inspired a project), and I thrive at the intersection of systems thinking and creative building. 🏎️✨
 
 ---
 
