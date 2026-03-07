@@ -78,12 +78,7 @@ LLM's for Constraint Programming, agent-based AI systems and cool computer visio
   </table>
 </div>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymoola&layout=compact&theme=radical" width="420px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ymoola&show_icons=true&theme=radical" width="420px" />
-</p>
 
 ---
 
