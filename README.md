@@ -25,7 +25,7 @@ LLM's for Constraint Programming, agent-based AI systems and cool computer visio
 
 ---
 
-### 🚀 Latest Projects
+### Latest Projects
 <div align="center">
 
 🔹 LLM's for Constraint Programming Modification
