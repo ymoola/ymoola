@@ -17,7 +17,7 @@
 
 **Industrial Engineering student** at the University of Toronto blending data science, optimization, and generative AI to solve real-world problems.
 
-Passionate about turning complex systems into smart, scalable tools. Whether it's deep learning with ViTs, crafting agent workflows with LangChain, or visualizing enterprise data pipelines — I’m in my element.
+Passionate about turning complex systems into smart, scalable tools. Whether it's deep learning, crafting agent workflows, or visualizing enterprise data pipelines, it's all up my alley.
 
 **Currently diving deeper into:**  
 LLM's for Constraint Programming, agent-based AI systems and cool computer vision applications
