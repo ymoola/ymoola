@@ -13,25 +13,6 @@
 
 ---
 
-### 🚀 Latest Projects
-<div align="center">
-
-🔹 IntelliEarth - GenAI Genesis Hackathon  
-<a href="https://github.com/ymoola/GenAiHackathon" target="_blank">[GenAiHackathon]</a>
-
-🔹 Oral Disease Classifier - Computer Vision
-<a href="https://github.com/ymoola/APS360_Project" target="_blank">[APS360_Project]</a>
-
-🔹 Formula 1 Race Predictor using ML + LP  
-<a href="https://github.com/ymoola/MIE368-F1" target="_blank">[MIE368-F1]</a>
-
-🔹 Ride-Share Application using Java Springboot
-<a href="https://github.com/ymoola/MIE350-Project" target="_blank">[MIE350-Project]</a>
-
-</div>
-
----
-
 ## About Me
 
 **Industrial Engineering student** at the University of Toronto blending data science, optimization, and generative AI to solve real-world problems.
@@ -41,6 +22,26 @@ Passionate about turning complex systems into smart, scalable tools. Whether it'
 **Currently diving deeper into:**  
 LLM's for Constraint Programming, agent-based AI systems and cool computer vision applications
 
+
+---
+
+### 🚀 Latest Projects
+<div align="center">
+
+🔹 LLM's for Constraint Programming Modification
+<a href="https://github.com/ymoola/LLM4CP-mod-ref" target="_blank">[LLM4CP]</a>
+
+🔹 Computer Vision Capstone for Slip Detection
+<a href="https://github.com/ymoola/aps490-capstone-kite" target="_blank">[Kite Research Institute CV Project]</a>
+
+🔹 IntelliEarth - GenAI Genesis Hackathon  
+<a href="https://github.com/ymoola/GenAiHackathon" target="_blank">[GenAiHackathon]</a>
+
+🔹 Formula 1 Race Predictor using ML + LP  
+<a href="https://github.com/ymoola/MIE368-F1" target="_blank">[MIE368-F1]</a>
+
+
+</div>
 
 ---
 
